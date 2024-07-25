@@ -9,4 +9,4 @@ Have a look around, maybe you can find something *interesting*.
 ![activity](https://raw.githubusercontent.com/DynamicGoose/dynamicgoose/output/github-contribution-grid-snake-dark.svg)
 
 > [!NOTE]
-> Take a look at my [website](https://dynamicgoose.github.io/) for a more of my creations
+> Take a look at my [website](https://dynamicgoose.github.io/) for more
